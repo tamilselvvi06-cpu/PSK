@@ -9,17 +9,13 @@ Write a simple Python program for the modulation and demodulation of PSK and QPS
 signal space that is one-dimensional,
 with a signal constellation consisting of
 two message points.
-
 <img width="481" height="520" alt="image" src="https://github.com/user-attachments/assets/8e0566e3-32fe-4cf2-8cd8-6b6166b0a611" />
-
 # QPSK:
 QPSK, as with binary PSK, information carried by the transmitted signal
 is contained in the phase. The phase of the carrier takes on one of four
 equally spaced values, such as π/4, 3π/4, 5π/4 and 7π/4. The transmitted
 signal is
-
 <img width="642" height="287" alt="image" src="https://github.com/user-attachments/assets/3ebff6c9-a00e-4239-8fce-6579ed36eccb" />
-
 # Program:
 # PSk
 ```
@@ -157,12 +153,8 @@ plt.show()
 ```
 # Output Waveform
 # PSk:
-
 ![WhatsApp Image 2026-02-27 at 1 17 47 PM](https://github.com/user-attachments/assets/00249e13-c60a-4911-bc41-dc03365baad9)
-
 # QPSK:
-
 ![WhatsApp Image 2026-02-27 at 1 20 02 PM](https://github.com/user-attachments/assets/728b28f0-afe8-4516-bc67-9a8acde82916)
-
 # Results:
 Thus PSK and QPSK were performed and the waveform is verified using Google Colab.
