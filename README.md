@@ -152,13 +152,15 @@ plt.grid(True)
 plt.show()
 ```
 # Output Waveform
+
 # PSk:
 
 ![WhatsApp Image 2026-02-27 at 1 17 47 PM](https://github.com/user-attachments/assets/00249e13-c60a-4911-bc41-dc03365baad9)
 
 # QPSK:
 
-![WhatsApp Image 2026-02-27 at 1 20 02 PM](https://github.com/user-attachments/assets/42b1cb99-e6ff-4e9e-8149-38bc03237bc5)
+![WhatsApp Image 2026-02-27 at 1 20 02 PM](https://github.com/user-attachments/assets/728b28f0-afe8-4516-bc67-9a8acde82916)
 
 # Results:
+
 Thus PSK and QPSK were performed and the waveform is verified using Google Colab.
